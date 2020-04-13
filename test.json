@@ -1,7 +1,7 @@
 {
-   "host":"ftp.unaux.com",
-   "username":"unaux_22449605",
-   "password":"Sandesh@953600",
+   "host":"ftp1.sportcom.tv",
+   "username":"FtP-PiullillO-0",
+   "password":"ftpuserapp-upload",
    "port":21,
    "folder":"XXXX",
    "subfolder":[
@@ -11,43 +11,7 @@
       },
       {
          "id":"2",
-         "name":"bbb"
-      },
-      {
-         "id":"3",
-         "name":"CCC"
-      },
-      {
-         "id":"4",
-         "name":"BBA"
-      },
-      {
-         "id":"5",
-         "name":"DDD"
-      },
-      {
-         "id":"1",
-         "name":"EEE"
-      },
-      {
-         "id":"1",
-         "name":"AAA"
-      },
-      {
-         "id":"1",
-         "name":"AAA"
-      },
-      {
-         "id":"1",
-         "name":"AAA"
-      },
-      {
-         "id":"1",
-         "name":"AAA"
-      },
-      {
-         "id":"1",
-         "name":"AAA"
+         "name":"BBB"
       }
    ],
    "upload_id":"test"
