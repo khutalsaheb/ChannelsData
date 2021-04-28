@@ -1,0 +1,94 @@
+{
+   "resources":[
+      {
+         "category":"Go Port",
+         "subcategory":[
+            {
+               "id":1,
+               "name":"Port of Oakland",
+               "url":"https://portofoakland.com",
+               "cat_status":"active"
+            },
+            {
+               "id":2,
+               "name":"Port of Oakland",
+               "url":"https://portofoakland.com",
+               "cat_status":"active"
+            }
+         ]
+      },
+      {
+         "category":"Truck Support",
+         "subcategory":[
+            {
+               "id":1,
+               "name":"Port of Oakland",
+               "url":"https://portofoakland.com",
+               "cat_status":"active"
+            },
+            {
+               "id":1,
+               "name":"Port of Oakland",
+               "url":"https://portofoakland.com",
+               "cat_status":"active"
+            }
+         ]
+      },
+      {
+         "category":"Go Port",
+         "subcategory":[
+            {
+               "id":1,
+               "name":"Port of Oakland",
+               "url":"https://portofoakland.com",
+               "cat_status":"active"
+            },
+            {
+               "id":1,
+               "name":"Port of Oakland",
+               "url":"https://portofoakland.com",
+               "cat_status":"active"
+            }
+         ]
+      },
+      {
+         "category":"Go Port",
+         "subcategory":[
+            {
+               "id":1,
+               "name":"Port of Oakland",
+               "url":"https://portofoakland.com",
+               "cat_status":"active"
+            },
+            {
+               "id":1,
+               "name":"Port of Oakland",
+               "url":"https://portofoakland.com",
+               "cat_status":"active"
+            }
+         ]
+      },
+      {
+         "category":"Go Port",
+         "subcategory":[
+            {
+               "id":1,
+               "name":"Port of Oakland",
+               "url":"https://portofoakland.com",
+               "cat_status":"active"
+            },
+            {
+               "id":1,
+               "name":"Port of Oakland",
+               "url":"https://portofoakland.com",
+               "cat_status":"active"
+            }
+         ]
+      }
+   ],
+   "customCode":200,
+   "message":"Successfully",
+   "errors":"",
+   "error":false,
+   "status":"success"
+}
