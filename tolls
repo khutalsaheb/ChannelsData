@@ -1,0 +1,50 @@
+{
+   "customcode":200,
+   "message":"fetched.",
+   "errors":"none",
+   "error":false,
+   "status":"success",
+   "tolls":[
+      {
+         "toll_id":1,
+         "toll_name":"Matitime ST- south of 7th",
+         "toll_location":"Westbound on Route 92,CA",
+         "toll_prices":"Northbound on Route 160 FasTrak:$6.00 Pay By Plate:$6.00 When:All Days,All Hours",
+         "toll_lat":"00.11655",
+         "toll_lng":"74.05452",
+         "last_updated_time":"12:12:21:01:02:03"
+      },  {
+         "toll_id":1,
+         "toll_name":"Matitime ST- south of 7th",
+         "toll_location":"Westbound on Route 92,CA",
+         "toll_prices":"Northbound on Route 160 FasTrak:$6.00 Pay By Plate:$6.00 When:All Days,All Hours",
+         "toll_lat":"00.11655",
+         "toll_lng":"74.05452",
+         "last_updated_time":"12:12:21:01:02:03"
+      },  {
+         "toll_id":1,
+         "toll_name":"Matitime ST- south of 7th",
+         "toll_location":"Westbound on Route 92,CA",
+         "toll_prices":"Northbound on Route 160 FasTrak:$6.00 Pay By Plate:$6.00 When:All Days,All Hours",
+         "toll_lat":"00.11655",
+         "toll_lng":"74.05452",
+         "last_updated_time":"12:12:21:01:02:03"
+      },  {
+         "toll_id":1,
+         "toll_name":"Matitime ST- south of 7th",
+         "toll_location":"Westbound on Route 92,CA",
+         "toll_prices":"Northbound on Route 160 FasTrak:$6.00 Pay By Plate:$6.00 When:All Days,All Hours",
+         "toll_lat":"00.11655",
+         "toll_lng":"74.05452",
+         "last_updated_time":"12:12:21:01:02:03"
+      },  {
+         "toll_id":1,
+         "toll_name":"Matitime ST- south of 7th",
+         "toll_location":"Westbound on Route 92,CA",
+         "toll_prices":"Northbound on Route 160 FasTrak:$6.00 Pay By Plate:$6.00 When:All Days,All Hours",
+         "toll_lat":"00.11655",
+         "toll_lng":"74.05452",
+         "last_updated_time":"12:12:21:01:02:03"
+      }
+   ]
+}
