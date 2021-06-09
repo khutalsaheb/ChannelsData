@@ -1,0 +1,42 @@
+{
+   "customcode":200,
+   "message":"fetched.",
+   "errors":"none",
+   "error":false,
+   "status":"success",
+   "marineTerminals":[
+      {
+         "id":1,
+         "terminal_name":"SSA Marine",
+         "current_wait_time":180,
+         "todays_avg_time":11,
+         "terminal_logo":"http://portofoakland.emodal.com/img/section3-oict-img.jpg",
+         "gates":[
+            {
+               "gate_name":"South Gate",
+               "truck_in_queue":10,
+               "street_queue_length":10,
+               "terminal_turn_time":10,
+               "street_wait_time":100
+            },
+            {
+               "gate_name":"West Gate",
+               "truck_in_queue":10,
+               "street_queue_length":10,
+               "terminal_turn_time":10,
+               "street_wait_time":100
+            }
+         ]
+      },
+      {
+         "id":2,
+         "terminal_name":"EverPort",
+         "current_wait_time":180,
+         "todays_avg_time":100,
+         "terminal_logo":"http://portofoakland.emodal.com/img/section3-img1-02.jpg",
+         "gates":[
+            
+   ]
+      }
+   ]
+}
