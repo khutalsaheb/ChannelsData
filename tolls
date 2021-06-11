@@ -5,45 +5,87 @@
    "error":false,
    "status":"success",
    "tolls":[
-      {
+       {
          "toll_id":1,
-         "toll_name":"Matitime ST- south of 7th",
-         "toll_location":"Westbound on Route 92,CA",
-         "toll_prices":"Northbound on Route 160 FasTrak:$6.00 Pay By Plate:$6.00 When:All Days,All Hours",
-         "toll_lat":"00.11655",
-         "toll_lng":"74.05452",
+         "toll_name":"Antioch Bridge",
+         "toll_location":"Northbound on Route 160",
+         "toll_prices":"FasTrak: $6.00\n
+Pay By Plate: $6.00\n
+When: All Days, All Hours\n",
+         "toll_lat":"38.015045722535845",
+         "toll_lng":"-121.75147674208688",
+         "last_updated_time":"12:12:21:01:02:03"
+      }, 
+     {
+         "toll_id":2,
+         "toll_name":"Golden Gate Bridge",
+         "toll_location":"Southbound on US 101",
+         "toll_prices":"FasTrak: $7.70\n
+Pay By Plate: $8.70\n
+When: All Days, All Hours\n",
+         "toll_lat":"37.8451183849093",
+         "toll_lng":"-122.48188119860487",
+         "last_updated_time":"12:12:21:01:02:03"
+      }, 
+     {
+         "toll_id":3,
+         "toll_name":"San Francisco - Oakland Bay Bridge",
+         "toll_location":"Westbound on I-80",
+         "toll_prices":"FasTrak: $6.00\n
+Pay By Plate: $6.00\n
+When: SAT-SUN, All Hours\n",
+         "toll_lat":"37.86897241690908",
+         "toll_lng":"-122.33081918581863",
+         "last_updated_time":"12:12:21:01:02:03"
+      },   {
+         "toll_id":4,
+         "toll_name":"San Mateo-Hayward Bridge",
+         "toll_location":"Westbound on Route 92",
+         "toll_prices":"FasTrak: $6.00\n
+Pay By Plate: $6.00\n
+When: All Days, All Hours\n",
+         "toll_lat":"37.66488014673332",
+         "toll_lng":"-122.1413050243231",
          "last_updated_time":"12:12:21:01:02:03"
       },  {
-         "toll_id":1,
-         "toll_name":"Matitime ST- south of 7th",
-         "toll_location":"Westbound on Route 92,CA",
-         "toll_prices":"Northbound on Route 160 FasTrak:$6.00 Pay By Plate:$6.00 When:All Days,All Hours",
-         "toll_lat":"00.11655",
-         "toll_lng":"74.05452",
+         "toll_id":5,
+         "toll_name":"Dumbarton Bridge",
+         "toll_location":"Westbound on Route 84",
+          "toll_prices":"FasTrak: $6.00 \n
+Pay By Plate: $6.00\n
+When: All Days, All Hours\n",
+"toll_lat":"37.53585847182441",
+         "toll_lng":"-122.07520936038277",
          "last_updated_time":"12:12:21:01:02:03"
       },  {
-         "toll_id":1,
-         "toll_name":"Matitime ST- south of 7th",
-         "toll_location":"Westbound on Route 92,CA",
-         "toll_prices":"Northbound on Route 160 FasTrak:$6.00 Pay By Plate:$6.00 When:All Days,All Hours",
-         "toll_lat":"00.11655",
-         "toll_lng":"74.05452",
+         "toll_id":6,
+         "toll_name":"Richmond - San Rafael Bridge",
+         "toll_location":"Westbound on I-580",
+        "toll_prices":"FasTrak: $6.00 \n
+Pay By Plate: $6.00\n
+When: All Days, All Hours\n",
+"toll_lat":"38.14165843200725",
+         "toll_lng":"-122.41321664898815",
          "last_updated_time":"12:12:21:01:02:03"
       },  {
-         "toll_id":1,
-         "toll_name":"Matitime ST- south of 7th",
-         "toll_location":"Westbound on Route 92,CA",
-         "toll_prices":"Northbound on Route 160 FasTrak:$6.00 Pay By Plate:$6.00 When:All Days,All Hours",
-         "toll_lat":"00.11655",
-         "toll_lng":"74.05452",
+         "toll_id":7,
+         "toll_name":"Benicia - Martinez Bridge",
+         "toll_location":"Northbound on I-680",
+         "toll_prices":"FasTrak: $6.00 \n
+Pay By Plate: $6.00\n
+When: All Days, All Hours\n",
+         "toll_lat":"38.26252644937846",
+         "toll_lng":"-122.08362680290902",
          "last_updated_time":"12:12:21:01:02:03"
       },  {
-         "toll_id":1,
-         "toll_name":"Matitime ST- south of 7th",
-         "toll_location":"Westbound on Route 92,CA",
-         "toll_prices":"Northbound on Route 160 FasTrak:$6.00 Pay By Plate:$6.00 When:All Days,All Hours",
-         "toll_lat":"00.11655",
-         "toll_lng":"74.05452",
+         "toll_id":8,
+         "toll_name":"Carquinez Bridge",
+         "toll_location":"Northbound on I-80",
+         "toll_prices":"FasTrak: $6.00\n
+Pay By Plate: $6.00\n
+When: All Days, All Hours\n",
+         "toll_lat":"38.245271876668106",
+         "toll_lng":"-122.23743539774595",
          "last_updated_time":"12:12:21:01:02:03"
       }
    ]
