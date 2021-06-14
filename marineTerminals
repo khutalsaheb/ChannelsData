@@ -6,43 +6,45 @@
    "status":"success",
    "marineTerminals":[
       {
-         "id":1,
-         "terminal_name":"Matson",
-         "current_wait_time":146,
-         "todays_avg_time":116,
-         "terminal_logo":"http://portofoakland.emodal.com/img/section3-img-04.jpg",
-         "gates":[
-            {
-               "gate_name":"",
-               "truck_in_queue":40,
-               "street_queue_length":49,
-               "terminal_turn_time":13,
-               "street_wait_time":67
-            }
-         ]
+         "default":{
+            "id":1,
+            "terminal_name":"Matson",
+            "current_wait_time":146,
+            "todays_avg_time":116,
+            "terminal_logo":"http://portofoakland.emodal.com/img/section3-img-04.jpg",
+            "truck_in_queue":40,
+            "street_queue_length":49,
+            "terminal_turn_time":13,
+            "street_wait_time":67
+         },
+         "gates":[]
       },
       {
-         "id":2,
-         "terminal_name":"Everport",
-         "current_wait_time":50,
-         "todays_avg_time":70,
-         "terminal_logo":"http://portofoakland.emodal.com/img/section3-img1-02.jpg",
-         "gates":[
-            {
-               "gate_name":"",
-               "truck_in_queue":2,
-               "street_queue_length":16,
-               "terminal_turn_time":12,
-               "street_wait_time":32
-            }
-         ]
+         "default":{
+            "id":2,
+            "terminal_name":"Everport",
+            "current_wait_time":50,
+            "todays_avg_time":70,
+            "terminal_logo":"http://portofoakland.emodal.com/img/section3-img1-02.jpg",
+            "truck_in_queue":2,
+            "street_queue_length":16,
+            "terminal_turn_time":12,
+            "street_wait_time":32
+         },
+         "gates":[]
       },
       {
-         "id":3,
-         "terminal_name":"OICT",
-         "current_wait_time":146,
-         "todays_avg_time":116,
-         "terminal_logo":"http://portofoakland.emodal.com/img/section3-oict-img.jpg",
+         "default":{
+            "id":3,
+            "terminal_name":"OICT",
+            "current_wait_time":146,
+            "todays_avg_time":116,
+            "terminal_logo":"http://portofoakland.emodal.com/img/section3-oict-img.jpg",
+            "truck_in_queue":40,
+            "street_queue_length":49,
+            "terminal_turn_time":13,
+            "street_wait_time":67
+         },
          "gates":[
             {
                "gate_name":"Back Gate",
@@ -68,20 +70,18 @@
          ]
       },
       {
-         "id":4,
-         "terminal_name":"TraPac",
-         "current_wait_time":29,
-         "todays_avg_time":25,
-         "terminal_logo":"http://portofoakland.emodal.com/img/section3-img-03.jpg",
-         "gates":[
-            {
-               "gate_name":" ",
-               "truck_in_queue":5,
-               "street_queue_length":40,
-               "terminal_turn_time":48,
-               "street_wait_time":30
-            }
-         ]
+         "default":{
+            "id":4,
+            "terminal_name":"TraPac",
+            "current_wait_time":29,
+            "todays_avg_time":25,
+            "terminal_logo":"http://portofoakland.emodal.com/img/section3-img-03.jpg",
+            "truck_in_queue":5,
+            "street_queue_length":40,
+            "terminal_turn_time":48,
+            "street_wait_time":30
+         },
+         "gates":[]
       }
    ]
 }
