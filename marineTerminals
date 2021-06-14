@@ -48,6 +48,8 @@
          "gates":[
             {
                "gate_name":"Back Gate",
+                 "current_wait_time":146,
+            "todays_avg_time":116,
                "truck_in_queue":40,
                "street_queue_length":49,
                "terminal_turn_time":13,
@@ -55,14 +57,16 @@
             },
             {
                "gate_name":"East Gate",
-               "truck_in_queue":10,
+               "truck_in_queue":10,  "current_wait_time":146,
+            "todays_avg_time":116,
                "street_queue_length":10,
                "terminal_turn_time":10,
                "street_wait_time":100
             },
             {
                "gate_name":"West Gate",
-               "truck_in_queue":0,
+               "truck_in_queue":0,  "current_wait_time":146,
+            "todays_avg_time":116,
                "street_queue_length":0,
                "terminal_turn_time":0,
                "street_wait_time":0
