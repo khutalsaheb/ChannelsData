@@ -48,8 +48,8 @@
          "gates":[
             {
                "gate_name":"Back Gate",
-                 "current_wait_time":146,
-            "todays_avg_time":116,
+                 "current_wait_time":49,
+                 "todays_avg_time":90,
                "truck_in_queue":40,
                "street_queue_length":49,
                "terminal_turn_time":13,
@@ -65,8 +65,8 @@
             },
             {
                "gate_name":"West Gate",
-               "truck_in_queue":0,  "current_wait_time":146,
-            "todays_avg_time":116,
+               "truck_in_queue":0,  "current_wait_time":0,
+            "todays_avg_time":0,
                "street_queue_length":0,
                "terminal_turn_time":0,
                "street_wait_time":0
