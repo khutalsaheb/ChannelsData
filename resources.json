@@ -1,7 +1,7 @@
 {
    "resources":[
       {
-         "category":"Go Port",
+         "category":"Port of Oakland",
          "subcategory":[
             {
                "id":1,
@@ -11,8 +11,55 @@
             },
             {
                "id":2,
-               "name":"Port of Oakland",
-               "url":"https://portofoakland.com",
+               "name":"Sea Port",
+               "url":"https://www.oaklandseaport.com/",
+               "cat_status":"active"
+            } ,{
+               "id":3,
+               "name":"Air Port",
+               "url":"https://www.portofoakland.com/port/airport/",
+               "cat_status":"active"
+            },{
+               "id":3,
+               "name":"Commercial Real Estate",
+               "url":"https://www.portofoakland.com/port/commercial-real-estate/",
+               "cat_status":"revoked"
+            },{
+               "id":3,
+               "name":"Ben E. Nutter - ETS",
+               "url":"http://www.etslink.com/",
+              "cat_status":"active"
+            },{
+               "id":3,
+               "name":"Commercial Real Estate",
+               "url":"https://www.portofoakland.com/port/commercial-real-estate/",
+                "cat_status":"active"
+            }
+         ]
+      },
+      {
+         "category":"Matson Terminal",
+         "subcategory":[
+            {
+               "id":1,
+               "name":"OICT",
+               "url":"http://portofoakland.emodal.com/OICT",
+               "cat_status":"active"
+            },
+            {
+               "id":1,
+               "name":"EverPort",
+               "url":"http://portofoakland.emodal.com/EverPort",
+               "cat_status":"active"
+            }, {
+               "id":1,
+               "name":"TraPac",
+               "url":"http://portofoakland.emodal.com/TraPac",
+               "cat_status":"active"
+            }, {
+               "id":1,
+               "name":"Matson",
+               "url":"http://portofoakland.emodal.com/Matson",
                "cat_status":"active"
             }
          ]
@@ -22,119 +69,25 @@
          "subcategory":[
             {
                "id":1,
-               "name":"Port of Oakland",
-               "url":"https://portofoakland.com",
+               "name":"American Truck Parking",
+               "url":"https://www.americantruckparking.com/",
                "cat_status":"active"
             },
             {
                "id":1,
-               "name":"Port of Oakland",
-               "url":"https://portofoakland.com",
-               "cat_status":"active"
-            }, {
-               "id":1,
-               "name":"Google",
-               "url":"https://google.com",
-               "cat_status":"active"
-            }, {
-               "id":1,
-               "name":"Google",
-               "url":"https://google.com",
-               "cat_status":"active"
-            }, {
-               "id":1,
-               "name":"Google",
-               "url":"https://google.com",
-               "cat_status":"active"
-            }, {
-               "id":1,
-               "name":"Google",
-               "url":"https://google.com",
-               "cat_status":"active"
-            }, {
-               "id":1,
-               "name":"Google",
-               "url":"https://google.com",
-               "cat_status":"active"
-            }, {
-               "id":1,
-               "name":"Google",
-               "url":"https://google.com",
-               "cat_status":"active"
-            }, {
-               "id":1,
-               "name":"Google",
-               "url":"https://google.com",
-               "cat_status":"active"
-            }, {
-               "id":1,
-               "name":"Google",
-               "url":"https://google.com",
-               "cat_status":"active"
-            }, {
-               "id":1,
-               "name":"Google",
-               "url":"https://google.com",
-               "cat_status":"active"
-            }, {
-               "id":1,
-               "name":"Google",
-               "url":"https://google.com",
-               "cat_status":"active"
-            }, {
-               "id":1,
-               "name":"Google",
-               "url":"https://google.com",
-               "cat_status":"active"
-            }, {
-               "id":1,
-               "name":"Google",
-               "url":"https://google.com",
+               "name":"GasBuddy",
+               "url":"https://www.gasbuddy.com/",
                "cat_status":"active"
             }
          ]
       },
       {
-         "category":"Go Port",
+         "category":"More",
          "subcategory":[
             {
                "id":1,
-               "name":"Port of Oakland",
-               "url":"https://portofoakland.com",
-               "cat_status":"active"
-            },
-            {
-               "id":1,
-               "name":"Port of Oakland",
-               "url":"https://portofoakland.com",
-               "cat_status":"active"
-            }
-         ]
-      },
-      {
-         "category":"Go Port",
-         "subcategory":[
-            {
-               "id":1,
-               "name":"Port of Oakland",
-               "url":"https://portofoakland.com",
-               "cat_status":"active"
-            },
-            {
-               "id":1,
-               "name":"Port of Oakland",
-               "url":"https://portofoakland.com",
-               "cat_status":"active"
-            }
-         ]
-      },
-      {
-         "category":"Go Port",
-         "subcategory":[
-            {
-               "id":1,
-               "name":"Port of Oakland",
-               "url":"https://portofoakland.com",
+               "name":"BNSF Railway",
+               "url":"https://www.bnsf.com/",
                "cat_status":"active"
             },
             {
