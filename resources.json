@@ -1,12 +1,17 @@
 {
    "resources":[
       {
-         "category":"Port of Oakland",
+         "category":"Home Resources",
          "subcategory":[
             {
                "id":1,
                "name":"Port of Oakland",
                "url":"https://portofoakland.com",
+               "cat_status":"active"
+            }, {
+               "id":1,
+               "name":"Oakland Portal",
+               "url":"http://portofoakland.emodal.com/",
                "cat_status":"active"
             },
             {
@@ -29,11 +34,6 @@
                "name":"Ben E. Nutter - ETS",
                "url":"http://www.etslink.com/",
               "cat_status":"active"
-            },{
-               "id":3,
-               "name":"Commercial Real Estate",
-               "url":"https://www.portofoakland.com/port/commercial-real-estate/",
-                "cat_status":"active"
             }
          ]
       },
