@@ -85,7 +85,16 @@
             "terminal_turn_time":48,
             "street_wait_time":30
          },
-         "gates":[]
+         "gates":[
+         {
+               "gate_name":"Front Gate",
+               "truck_in_queue":5,  "current_wait_time":10,
+            "todays_avg_time":10,
+               "street_queue_length":2,
+               "terminal_turn_time":22,
+               "street_wait_time":6
+            }
+         ]
       }
    ]
 }
