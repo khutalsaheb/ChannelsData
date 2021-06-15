@@ -49,65 +49,47 @@
       },
       {
          "title":"Settings",
-         "subtopic":[
-            {
-               
-            }
-         ],
+         "subtopic":[],
          "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
       },
       {
          "title":"Resources",
-         "subtopic":[
-            {
-               
-            }
-         ],
+         "subtopic":[],
          "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
       },
       {
          "title":"Alerts",
-         "subtopic":[
-            {
-               
-            }
-         ],
+         "subtopic":[   ],
          "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
       },
       {
          "title":"Disclaimer",
-         "subtopic":[
+         "subtopic":[ 
             {
-               
+               "moduleName":" ",
+               "moduleDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,When an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more.Recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            },{
+               "moduleName":"Security and Safety",
+               "moduleDescription":"Access compliance reminders. weigh-in-motion readings, and critical alerts."
             }
+         
+         
          ],
          "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
       },
       {
          "title":"Privacy Policy",
-         "subtopic":[
-            {
-               
-            }
-         ],
+         "subtopic":[],
          "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
       },
       {
-         "title":"about us",
-         "subtopic":[
-            {
-               
-            }
-         ],
+         "title":"About us",
+         "subtopic":[],
          "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
       },
       {
          "title":"Conditions of Use",
-         "subtopic":[
-            {
-               
-            }
-         ],
+         "subtopic":[],
          "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
       }
    ],
