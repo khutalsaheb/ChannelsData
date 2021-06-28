@@ -1,0 +1,113 @@
+{
+   "customcode":200,
+   "message":"fetched.",
+   "errors":"none",
+   "error":false,
+   "status":"success",
+   "tolls":[
+      {
+         "toll_id":1,
+         "toll_name":"Antioch Bridge",
+         "toll_location":"Northbound on Route 160",
+         "toll_prices":{
+            "fastrack":"$6.00",
+            "pay_plate":"$6.00",
+            "when":"All Days, All Hours"
+         },
+         "toll_lat":"38.015045722535845",
+         "toll_lng":"-121.75147674208688",
+         "last_updated_time":"12:12:21:01:02:03"
+      },
+      {
+         "toll_id":2,
+         "toll_name":"Golden Gate Bridge",
+         "toll_location":"Southbound on US 101",
+         "toll_prices":{
+            "fastrack":"$7.70",
+            "pay_plate":" $8.70",
+            "when":"All Days, All Hours"
+         },
+         "toll_lat":"37.820064182123616",
+         "toll_lng":"-122.47823364502916",
+         "last_updated_time":"12:12:21:01:02:03"
+      },
+      {
+         "toll_id":3,
+         "toll_name":"San Francisco - Oakland Bay Bridge",
+         "toll_location":"Westbound on I-80",
+         "toll_prices":{
+            "fastrack":"$6.00",
+            "pay_plate":"$6.00",
+            "when":"SAT-SUN, All Hours"
+         },
+         "toll_lat":"37.79829238713743",
+         "toll_lng":"-122.37781478896505",
+         "last_updated_time":"12:12:21:01:02:03"
+      },
+      {
+         "toll_id":4,
+         "toll_name":"San Mateo-Hayward Bridge",
+         "toll_location":"Westbound on Route 92",
+         "toll_prices":{
+            "fastrack":"$6.00",
+            "pay_plate":"$6.00",
+            "when":"All Days, All Hours"
+         },
+         "toll_lat":"37.66488014673332",
+         "toll_lng":"-122.1413050243231",
+         "last_updated_time":"12:12:21:01:02:03"
+      },
+      {
+         "toll_id":5,
+         "toll_name":"Dumbarton Bridge",
+         "toll_location":"Westbound on Route 84",
+         "toll_prices":{
+            "fastrack":"$6.00",
+            "pay_plate":"$6.00",
+            "when":"All Days, All Hours"
+         },
+         "toll_lat":"37.53585847182441",
+         "toll_lng":"-122.07520936038277",
+         "last_updated_time":"12:12:21:01:02:03"
+      },
+      {
+         "toll_id":6,
+         "toll_name":"Richmond - San Rafael Bridge",
+         "toll_location":"Westbound on I-580",
+         "toll_prices":{
+            "fastrack":"$6.00",
+            "pay_plate":"$6.00",
+            "when":"All Days, All Hours"
+         },
+         "toll_lat":"37.93551620172893",
+         "toll_lng":"-122.44461138803501",
+         "last_updated_time":"12:12:21:01:02:03"
+      },
+      {
+         "toll_id":7,
+         "toll_name":"Benicia - Martinez Bridge",
+         "toll_location":"Northbound on I-680",
+         "toll_prices":{
+            "fastrack":"$6.00",
+            "pay_plate":"$6.00",
+            "when":"All Days, All Hours"
+         },
+         "toll_lat":"38.03284782791318",
+         "toll_lng":"-122.11622958305597",
+         "last_updated_time":"12:12:21:01:02:03"
+      },
+      {
+         "toll_id":8,
+         "toll_name":"Carquinez Bridge",
+         "toll_location":"Northbound on I-80",
+         "toll_prices":{
+            "fastrack":"$6.00",
+            "pay_plate":"$6.00",
+            "when":"All Days, All Hours"
+         },
+         "toll_lat":"38.07299501111317",
+         "toll_lng":"-122.22766096395118",
+         "last_updated_time":"12:12:21:01:02:03"
+      }
+   ]
+}

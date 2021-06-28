@@ -1,0 +1,101 @@
+{
+   "about":[
+      {
+         "title":"Oakland Portal",
+         "subtopic":[
+            {
+               
+            }
+         ],
+         "description":"The GoPort/Oakland Portal freight ITS information system/app provides an integrated system of real-time traveller information,notifications and resources for Port users,such as truckers,dispatchers, and staff at the port of Oakland."
+      },
+      {
+         "title":"Modules",
+         "subtopic":[
+            {
+               "moduleName":"Marine Terminals-",
+               "moduleDescription":"Access pregate wait times, turn times,and camera views for real-time conditions at each terminal."
+            },
+            {
+               "moduleName":"Vessel Operations-",
+               "moduleDescription":"Determine which vessels are en-route, at the Port,due to arrive and due to depart."
+            },
+            {
+               "moduleName":"Traffic & Cameras-",
+               "moduleDescription":"See real-time and regional traffic conditions and camera views. alongside weather conditions at the Port .Access details of local and regional message signs. closures, and incidents."
+            },
+            {
+               "moduleName":"Rail Crossings-",
+               "moduleDescription":"Know instantly Which rail crossings Within the Port are inaccessible."
+            },
+            {
+               "moduleName":"Reservations",
+               "moduleDescription":"Reserve parking spots in advance and get reminders of upcoming container pick-up appointments."
+            },
+            {
+               "moduleName":"Payments",
+               "moduleDescription":"See amount due in parking fees"
+            },
+            {
+               "moduleName":"Driver Inventory",
+               "moduleDescription":"Add or remove approved drivers."
+            },
+            {
+               "moduleName":"Security and Safety",
+               "moduleDescription":"Access compliance reminders. weigh-in-motion readings, and critical alerts."
+            }
+         ],
+         "description":" "
+      },
+      {
+         "title":"Settings",
+         "subtopic":[],
+         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+         "title":"Resources",
+         "subtopic":[],
+         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+         "title":"Alerts",
+         "subtopic":[   ],
+         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+         "title":"Disclaimer",
+         "subtopic":[ 
+            {
+               "moduleName":" ",
+               "moduleDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,When an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more.Recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            },{
+               "moduleName":"Security and Safety",
+               "moduleDescription":"Access compliance reminders. weigh-in-motion readings, and critical alerts."
+            }
+         
+         
+         ],
+         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+         "title":"Privacy Policy",
+         "subtopic":[],
+         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+         "title":"About us",
+         "subtopic":[],
+         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+         "title":"Conditions of Use",
+         "subtopic":[],
+         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      }
+   ],
+   "customCode":200,
+   "message":"Successfully",
+   "errors":"",
+   "error":false,
+   "status":"success"
+}
