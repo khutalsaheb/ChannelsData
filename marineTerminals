@@ -95,6 +95,37 @@
                "street_wait_time":6
             }
          ]
+      },{
+         "default":{
+            "id":3,
+            "terminal_name":"POAK",
+            "current_wait_time":45,
+            "todays_avg_time":45,
+            "terminal_logo":"https://www.portofoakland.com/wp-content/uploads/2016/02/logo.png",
+            "truck_in_queue":15,
+            "street_queue_length":20,
+            "terminal_turn_time":13,
+            "street_wait_time":33
+         },
+         "gates":[
+            {
+               "gate_name":"Back Gate",
+                 "current_wait_time":49,
+                 "todays_avg_time":90,
+               "truck_in_queue":40,
+               "street_queue_length":49,
+               "terminal_turn_time":13,
+               "street_wait_time":67
+            },
+            {
+               "gate_name":"East Gate",
+               "truck_in_queue":10,  "current_wait_time":146,
+            "todays_avg_time":116,
+               "street_queue_length":10,
+               "terminal_turn_time":10,
+               "street_wait_time":100
+            }
+         ]
       }
    ]
 }
